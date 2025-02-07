@@ -1,0 +1,1 @@
+# Write a function that removes one string from another string, if present.
